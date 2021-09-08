@@ -1,0 +1,17 @@
+body {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  padding: 20px 60px;
+  background-image: url("https://i.ibb.co/MC1qCK5/153518362-e-commerce-doodle-pattern-with-black-and-white-design-suitable-for-background-online-shopp.jpg");
+  /* background-repeat: no-repeat;
+  background-size: 100%; */
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+* {
+  box-sizing: border-box;
+}
